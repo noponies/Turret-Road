@@ -5,19 +5,19 @@ Tracer is a geometric sans serif typeface, with very low contrast, high x-height
 Tracer delves into eugenics, solar evolution, science fiction and homeward conversations.
 
 ### Project documentation
-Tracer is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](docs/project-overview.md).
+Tracer is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](documentation/project-overview.md).
 
 ### Available weights
 Light
 Regular  
 Bold   
 
-![Image](images/tracer.jpg)
-![Image](images/tracer2.jpg)
-![Image](images/tracer3.jpg)
-![Image](images/tracer4.jpg)
-![Image](images/tracer5.jpg)
-![Image](images/tracer6.jpg)
-![Image](images/tracer7.jpg)
-![Image](images/tracer8.jpg)
-![Image](images/tracer9.jpg)
+![Image](documentation/images/tracer.jpg)
+![Image](documentation/images/tracer2.jpg)
+![Image](documentation/images/tracer3.jpg)
+![Image](documentation/images/tracer4.jpg)
+![Image](documentation/images/tracer5.jpg)
+![Image](documentation/images/tracer6.jpg)
+![Image](documentation/images/tracer7.jpg)
+![Image](documentation/images/tracer8.jpg)
+![Image](documentation/images/tracer9.jpg)
