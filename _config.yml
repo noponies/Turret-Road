@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: [Turret Road]
 description: [A angular sans serif typeface]
 show_downloads: ["true"]
+google_analytics: [UA-123026681-1]
