@@ -8,10 +8,10 @@ Turret Road delves into eugenics, solar evolution, science fiction and homeward 
 Turret Road is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](documentation/project-overview.md).
 
 ### Available weights
-ExtraLight	
+ExtraLight  
 Light  
 Regular  
-Medium	
+Medium  
 Bold  
 ExtraBold 
 
