@@ -1,18 +1,18 @@
-# Turrent Road
+# Turret Road
 
-Turrent Road is a geometric sans serif typeface, with very low contrast, high x-height and gylph height, and playful diacritics.
+Turret Road is a geometric sans serif typeface, with very low contrast, high x-height and gylph height, and playful diacritics.
 
-Turrent Road delves into eugenics, solar evolution, science fiction and homeward conversations.
+Turret Road delves into eugenics, solar evolution, science fiction and homeward conversations.
 
 ### Project documentation
-Turrent Road is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](documentation/project-overview.md).
+Turret Road is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](documentation/project-overview.md).
 
 ### Available weights
-ExtraLight
-Light
+ExtraLight	
+Light  
 Regular  
-Medium
-Bold
+Medium	
+Bold  
 ExtraBold 
 
 ![Image](documentation/images/tracer.jpg)
