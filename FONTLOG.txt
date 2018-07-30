@@ -1,18 +1,18 @@
-FONTLOG for Tracer fonts
+FONTLOG for Turret Road fonts
 
-This file provides detailed information on the Tracer
+This file provides detailed information on the Turret Road
 Font Software.
 
 This information should be distributed along with the 
-Tracer fonts and any derivative works.
+Turret Road fonts and any derivative works.
 
 Basic Font Information
 
-Tracer is an agular geometric sans serif typeface, with very low contrast, high x-height and gylph height, and playful diacritics.
+Turret Road is an agular geometric sans serif typeface, with very low contrast, high x-height and gylph height, and playful diacritics.
 
-Tracer delves into eugenics, solar evolution, science fiction and homeward conversations.
+Turret Road delves into eugenics, solar evolution, science fiction and homeward conversations.
 
-More detailed information can be found here: https://noponies.github.io/tracer/
+More detailed information can be found here: https://noponies.github.io/turret-road/
 
 More specifically, this release supports the following 
 Unicode ranges: Latin-1, 
@@ -21,6 +21,14 @@ To contribute to the project contact Dale Sattler
 at dale@noponies.com
 
 ChangeLog
+30 July 2018 (Dale Sattler)
+Fractions
+Refinement
+Renamed from Tracer (existing typeface) to Turret Road.
+
+27 July 2018 (Dale Sattler)
+Reworked into Multiple Master
+Extra interpolated weights
 
 23 July 2018 (Dale Sattler) Tracer v1
 - Initial release
@@ -33,5 +41,5 @@ description (D). This list is in alphabetical order.
 
 N: Dale Sattler [Noponies]
 E: dale@noponies.com
-W: http://noponies.com
+W: http://noponies.com || https://noponies.github.io/
 D: Original Type Designer

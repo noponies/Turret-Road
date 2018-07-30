@@ -1,5 +1,5 @@
-# Tracer
-Tracer started as a conversation with my 4 year old son regarding the cyclical nature of life and how our heavier atoms were/are created in the supernova deaths of giant stars.
+# Turret Road
+Turret Road started as a conversation with my 4 year old son regarding the cyclical nature of life and how our heavier atoms were/are created in the supernova deaths of giant stars.
 
 Conversations such as this remind me of a passage in Gattaca where Vincent, who finally has attained his dream of reaching the stars realises that he now has much to leave behind.
 
@@ -15,9 +15,9 @@ Technology such as gene editing is now outpacing ethics (Lunshof, 2017) on meta 
 Tracing back to the dice roll. If I could have influenced the roll, would have I? Yes.
 
 ### Formal language
-Tracer's design language is based around the use of hard angles and rigid regular stoke widths as a denotative reference to the machine, order and rationality. Connotatively the typeface references, cold hard space, voices of the void and future dystopia's.
+Turret Road's design language is based around the use of hard angles and rigid regular stoke widths as a denotative reference to the machine, order and rationality. Connotatively the typeface references, cold hard space, voices of the void and future dystopia's.
 
-Tracer is rendered as a sans serif typeface with a relatively high x-height, relatively wide glyph widths, open bowls, low contrast stems and is primarily intended for usage at larger point sizes.
+Turret Road is rendered as a sans serif typeface with a relatively high x-height, relatively wide glyph widths, open bowls, low contrast stems and is primarily intended for usage at larger point sizes.
 
 Western, Central and South Eastern European languages are supported.
 

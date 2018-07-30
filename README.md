@@ -1,16 +1,19 @@
-# Tracer
+# Turrent Road
 
-Tracer is a geometric sans serif typeface, with very low contrast, high x-height and gylph height, and playful diacritics.
+Turrent Road is a geometric sans serif typeface, with very low contrast, high x-height and gylph height, and playful diacritics.
 
-Tracer delves into eugenics, solar evolution, science fiction and homeward conversations.
+Turrent Road delves into eugenics, solar evolution, science fiction and homeward conversations.
 
 ### Project documentation
-Tracer is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](documentation/project-overview.md).
+Turrent Road is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](documentation/project-overview.md).
 
 ### Available weights
+ExtraLight
 Light
 Regular  
-Bold   
+Medium
+Bold
+ExtraBold 
 
 ![Image](documentation/images/tracer.jpg)
 ![Image](documentation/images/tracer2.jpg)
