@@ -48,8 +48,7 @@ U,
 "/imacron",
 "î",
 "ï",
-"/trademark",
-"¶"
+"/trademark"
 );
 classes = (
 {
@@ -23081,14 +23080,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"481 0 LINE",
-"481 700 LINE",
-"441 700 LINE",
-"441 0 LINE"
+"491 0 LINE",
+"491 700 LINE",
+"451 700 LINE",
+"451 0 LINE"
 );
 }
 );
-width = 531;
+width = 541;
 },
 {
 layerId = "40E32FB9-B6BE-48EB-82C7-9119AE8E729C";
@@ -25796,6 +25795,12 @@ width = 647;
 );
 instances = (
 {
+customParameters = (
+{
+name = "TTFAutohint options";
+value = "--windows-compatibility";
+}
+);
 interpolationWeight = 200;
 instanceInterpolations = {
 "40E32FB9-B6BE-48EB-82C7-9119AE8E729C" = -0.25;
@@ -25805,6 +25810,12 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
+customParameters = (
+{
+name = "TTFAutohint options";
+value = "--windows-compatibility";
+}
+);
 interpolationWeight = 300;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -25814,6 +25825,12 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = "TTFAutohint options";
+value = "--windows-compatibility";
+}
+);
 interpolationWeight = 400;
 instanceInterpolations = {
 "40E32FB9-B6BE-48EB-82C7-9119AE8E729C" = 0.25;
@@ -25822,6 +25839,12 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = "TTFAutohint options";
+value = "--windows-compatibility";
+}
+);
 interpolationWeight = 500;
 instanceInterpolations = {
 "40E32FB9-B6BE-48EB-82C7-9119AE8E729C" = 0.5;
@@ -25831,6 +25854,12 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = "TTFAutohint options";
+value = "--windows-compatibility";
+}
+);
 interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -25841,6 +25870,12 @@ name = Bold;
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = "TTFAutohint options";
+value = "--windows-compatibility";
+}
+);
 interpolationWeight = 800;
 instanceInterpolations = {
 "40E32FB9-B6BE-48EB-82C7-9119AE8E729C" = 1.25;
