@@ -15,6 +15,7 @@ Medium
 Bold  
 ExtraBold 
 
+### Project Images
 ![Image](documentation/images/tr.jpg)
 ![Image](documentation/images/tr2.jpg)
 ![Image](documentation/images/tr3.jpg)
@@ -29,3 +30,5 @@ ExtraBold
 ![Image](documentation/images/tr12.jpg)
 ![Image](documentation/images/tr13.jpg)
 ![Image](documentation/images/tr14.jpg)
+
+[Typeface waterfall poster](documentation/tr-poster.pdf)
