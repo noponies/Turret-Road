@@ -16,6 +16,7 @@ Bold
 ExtraBold 
 
 ### Project Images
+![Image](documentation/images/tr-cover.png)
 ![Image](documentation/images/tr.jpg)
 ![Image](documentation/images/tr2.jpg)
 ![Image](documentation/images/tr3.jpg)
