@@ -21,6 +21,10 @@ To contribute to the project contact Dale Sattler
 at dale@noponies.com
 
 ChangeLog
+19 September 2018 (Dale Sattler)
+Adjusted TM weight
+Added .ttf export
+
 30 July 2018 (Dale Sattler)
 Fractions
 Refinement
