@@ -1,6 +1,6 @@
 # Turret Road
 
-Turret Road is a geometric sans serif typeface, with very low contrast, high x-height and gylph height, and playful diacritics.
+Turret Road is a geometric sans serif typeface, with very low contrast, high x-height, high glyph height, and playful diacritics.
 
 Turret Road delves into eugenics, solar evolution, science fiction and homeward conversations.
 
