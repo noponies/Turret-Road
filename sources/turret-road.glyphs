@@ -230,11 +230,11 @@ value = 155;
 },
 {
 name = winAscent;
-value = 929;
+value = 931;
 },
 {
 name = winDescent;
-value = 243;
+value = 246;
 },
 {
 name = hheaAscender;
@@ -299,11 +299,11 @@ value = 155;
 },
 {
 name = winAscent;
-value = 929;
+value = 931;
 },
 {
 name = winDescent;
-value = 243;
+value = 246;
 },
 {
 name = hheaAscender;
@@ -18765,7 +18765,7 @@ glyphname = nbspace;
 layers = (
 {
 layerId = "40E32FB9-B6BE-48EB-82C7-9119AE8E729C";
-width = 450;
+width = 400;
 },
 {
 associatedMasterId = "575D5349-E17C-4630-8554-E10C4C95202B";
@@ -18774,7 +18774,7 @@ width = 450;
 },
 {
 layerId = "575D5349-E17C-4630-8554-E10C4C95202B";
-width = 450;
+width = 400;
 }
 );
 unicode = 00A0;
