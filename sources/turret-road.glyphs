@@ -1,7 +1,11 @@
 {
-.appVersion = "1141";
+.appVersion = "1230";
 DisplayStrings = (
-"©®/trademark"
+A,
+D,
+J,
+"/integral",
+"/divisionslash"
 );
 classes = (
 {
@@ -226,7 +230,7 @@ value = -243;
 },
 {
 name = typoLineGap;
-value = 155;
+value = 0;
 },
 {
 name = winAscent;
@@ -246,7 +250,7 @@ value = -243;
 },
 {
 name = hheaLineGap;
-value = 155;
+value = 0;
 }
 );
 descender = -245;
@@ -295,7 +299,7 @@ value = -243;
 },
 {
 name = typoLineGap;
-value = 155;
+value = 0;
 },
 {
 name = winAscent;
@@ -315,7 +319,7 @@ value = -243;
 },
 {
 name = hheaLineGap;
-value = 155;
+value = 0;
 }
 );
 descender = -245;
@@ -19770,6 +19774,50 @@ note = yen;
 unicode = 00A5;
 },
 {
+glyphname = divisionslash;
+layers = (
+{
+layerId = "575D5349-E17C-4630-8554-E10C4C95202B";
+paths = (
+{
+closed = 1;
+nodes = (
+"239 773 LINE",
+"182 744 LINE",
+"81 16 LINE",
+"40 -6 LINE",
+"61 -41 LINE",
+"120 -10 LINE",
+"221 719 LINE",
+"259 739 LINE"
+);
+}
+);
+width = 299;
+},
+{
+layerId = "40E32FB9-B6BE-48EB-82C7-9119AE8E729C";
+paths = (
+{
+closed = 1;
+nodes = (
+"245 783 LINE",
+"165 737 LINE",
+"83 58 LINE",
+"40 33 LINE",
+"83 -50 LINE",
+"165 -3 LINE",
+"247 677 LINE",
+"287 700 LINE"
+);
+}
+);
+width = 327;
+}
+);
+unicode = 2215;
+},
+{
 color = 9;
 glyphname = plus;
 layers = (
@@ -25752,6 +25800,10 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--windows-compatibility";
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationWeight = 200;
@@ -25767,6 +25819,10 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--windows-compatibility";
+},
+{
+name = weightClass;
+value = 300;
 }
 );
 interpolationWeight = 300;
@@ -25782,6 +25838,10 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--windows-compatibility";
+},
+{
+name = weightClass;
+value = 400;
 }
 );
 interpolationWeight = 400;
@@ -25796,6 +25856,10 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--windows-compatibility";
+},
+{
+name = weightClass;
+value = 500;
 }
 );
 interpolationWeight = 500;
@@ -25811,6 +25875,10 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--windows-compatibility";
+},
+{
+name = weightClass;
+value = 700;
 }
 );
 interpolationWeight = 700;
@@ -25827,6 +25895,10 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--windows-compatibility";
+},
+{
+name = weightClass;
+value = 800;
 }
 );
 interpolationWeight = 800;
@@ -25976,5 +26048,5 @@ manufacturer = Noponies;
 manufacturerURL = "http://noponies.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
