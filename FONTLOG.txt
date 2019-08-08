@@ -21,6 +21,11 @@ To contribute to the project contact Dale Sattler
 at dale@noponies.com
 
 ChangeLog
+08 Agust 2019 (Dale Sattler)
+PPEM Q/A .ttf fix
+Added Division Slash glyph
+hhea set to 0
+
 19 September 2018 (Dale Sattler)
 Adjusted TM weight
 Added .ttf export
